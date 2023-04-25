@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "POO CLASSE CELULAR EXERCICIO/1.0.0": {
+        "runtime": {
+          "POO CLASSE CELULAR EXERCICIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "POO CLASSE CELULAR EXERCICIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
