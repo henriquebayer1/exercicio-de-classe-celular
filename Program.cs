@@ -14,8 +14,7 @@ Celular sansung = new Celular();
 
      1 - ligar 
      2 - desligar 
-     3 - fazer ligação 
-     4 - enviar mensagem ");
+    ");
      char opcaoDeMenu = char.Parse(Console.ReadLine());
      
 switch (opcaoDeMenu)
@@ -26,20 +25,33 @@ switch (opcaoDeMenu)
     case '2':
     sansung.desligar();
         break;
-    case '3':
-sansung.fazerLigacao();
-        break;
-    case '4':
-    sansung.enviarMensagem();
-        break;
     default:
     Console.WriteLine($"ERROR, SELECT A VALID OPTION");
-    
-        break;
+     break; //BREAK DO DEFAULT DO SWITCH DO MENU
 }
 
 if (opcaoDeMenu == '1')
+{Console.WriteLine(@$"Menu do dispositivo:
+
+1- fazer ligacao 
+2 - enviar mensagem
+");
+char opcaoDeMenuOn = char.Parse(Console.ReadLine());
+
+switch (opcaoDeMenuOn)
 {
+     case '1':
+sansung.fazerLigacao();
+        break;
+    case '2':
+    sansung.enviarMensagem();
+        break;
+    default:
+    Console.WriteLine($"Selecione uma das opçoes corretamente!");
+    break;
+    
+}
+
     
 }
 

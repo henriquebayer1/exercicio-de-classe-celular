@@ -13,3 +13,18 @@ C:\Users\45922978810\Desktop\POO CLASSE CELULAR EXERCICIO\obj\Debug\net7.0\refin
 C:\Users\45922978810\Desktop\POO CLASSE CELULAR EXERCICIO\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.pdb
 C:\Users\45922978810\Desktop\POO CLASSE CELULAR EXERCICIO\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.genruntimeconfig.cache
 C:\Users\45922978810\Desktop\POO CLASSE CELULAR EXERCICIO\obj\Debug\net7.0\ref\POO CLASSE CELULAR EXERCICIO.dll
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\bin\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.exe
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\bin\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.deps.json
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\bin\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.runtimeconfig.json
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\bin\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.dll
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\bin\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.pdb
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.dll
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\refint\POO CLASSE CELULAR EXERCICIO.dll
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.pdb
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\POO CLASSE CELULAR EXERCICIO.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\exercicio-de-classe-celular\obj\Debug\net7.0\ref\POO CLASSE CELULAR EXERCICIO.dll
